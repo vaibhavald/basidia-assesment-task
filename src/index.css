@@ -7,6 +7,51 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+a {
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+.bg {
+  background-image: url('./images/background-weather.jpg');
+  height: 97vh;
+}
+
+.weather-report {
+  background-color: black;
+  opacity: 0.5;
+  color: white;
+  width: 70%;
+  height: 30%;
+  margin-top: 15%;
+  border-radius: 2%;
+}
+
+.temp {
+  font-size: 45px;
+  font-weight: bold;
+  color: white;
+}
+.date {
+  font-weight: bolder;
+  color: rgb(247, 171, 30);
+  font-size: 30px;
+}
+.city {
+  color: white;
+  font-size: 50px;
+}
+
+.date_city {
+  margin-top: 50px;
+}
+
+.input-group.md-form.form-sm.form-1 input {
+  border: 1px solid #bdbdbd;
+  border-top-right-radius: 0.25rem;
+  border-bottom-right-radius: 0.25rem;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;

@@ -1,0 +1,42 @@
+{
+    "coord": {
+        "lon": 81.85,
+        "lat": 25.45
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 315.75,
+        "feels_like": 310.61,
+        "temp_min": 315.75,
+        "temp_max": 315.75,
+        "pressure": 997,
+        "humidity": 6,
+        "sea_level": 997,
+        "grnd_level": 987
+    },
+    "wind": {
+        "speed": 4.01,
+        "deg": 351
+    },
+    "clouds": {
+        "all": 68
+    },
+    "dt": 1589958447,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1589931920,
+        "sunset": 1589980393
+    },
+    "timezone": 19800,
+    "id": 1278994,
+    "name": "Allahabad",
+    "cod": 200
+}
